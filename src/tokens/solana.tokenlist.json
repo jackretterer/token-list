@@ -601,6 +601,22 @@
         "telegram": "https://t.me/gta_fiverp/"
       }
     },
+
+
+  {
+      "chainId": 101,
+      "address": "6KaU5aEpRXiQps2MnGq86PWgLy4V3CaWaJ9em2ypSgJW",
+      "symbol": "GULP",
+      "name": "GULP",
+      "decimals": 8,
+      "logoURI": "https://cdn.jsdelivr.net/gh/jackretterer/fishToken/looptoken/fishLogo.jpg",
+      "tags": [
+        "social-token",
+        "gulp"
+      ]
+    },
+
+
     {
       "chainId": 101,
       "address": "6H87YFkp5LHyN3KzDXa5r3QYce7WTcwYJi9SqwH3TXkQ",
