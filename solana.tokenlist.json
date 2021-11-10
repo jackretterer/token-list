@@ -1,3 +1,4 @@
+﻿{
 {
   "name": "Solana Token List",
   "logoURI": "https://cdn.jsdelivr.net/gh/trustwallet/assets@master/blockchains/solana/info/logo.png",
@@ -193,6 +194,23 @@
         "website": "https://www.thestarship.finance/",
         "twitter": "https://twitter.com/solanadbs",
         "discord": "https://discord.gg/solanadbs"
+      }
+    },
+    {
+      "chainId": 101,
+      "address": "FoXyMu5xwXre7zEoSvzViRk3nGawHUp9kUh97y2NDhcq",
+      "symbol": "FOXY",
+      "name": "Famous Fox Federation",
+      "decimals": 0,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/FoXyMu5xwXre7zEoSvzViRk3nGawHUp9kUh97y2NDhcq/logo.png",
+      "tags": [
+        "NFT",
+        "utility-token"
+      ],
+      "extensions": {
+        "website": "https://famousfoxes.com/",
+        "twitter": "https://twitter.com/famousfoxfed",
+        "discord": "https://discord.gg/famousfoxes"
       }
     },
     {
@@ -20239,6 +20257,20 @@
         "twitter": "https://twitter.com/donkey_hee_haw"
       }
     },
+{
+  "chainId": 101,
+  "address": "DcvJP16Cw5oqTbtHmpJ4JGXaqBvV5m6eMZj5rGsFLpwU",
+  "symbol": "BOOGI",
+  "name": "BABY OOGI",
+  "decimals": 4,
+  "logoURI": "https://raw.githubusercontent.com/inwardthinker/babyoogi/master/token-list/main/assets/mainnet/DcvJP16Cw5oqTbtHmpJ4JGXaqBvV5m6eMZj5rGsFLpwU/babyoogi.png",
+  "tags": [
+    "community-token", "meme-token"
+  ],
+  "extensions": {
+    "twitter": "https://twitter.com/babyoogi_"
+  }
+},
     {
       "chainId": 101,
       "address": "Adqy2jwzqCo9M86AwoS1D1MtCc1gNoDbuVtsS35gf8aE",
@@ -20505,6 +20537,23 @@
     "discord":"https://discord.com/invite/ratbastard"
   }
 }
+,
+{
+    "chainId": 101,
+    "address": "osRA9qNxrtxF4kPAucsv9xHTu4YDrH6TqMMt9B2PsHa",
+    "symbol": "SHIBETOSHI",
+    "name": "Shibetoshi Nakamoto",
+    "decimals": 9,
+    "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/osRA9qNxrtxF4kPAucsv9xHTu4YDrH6TqMMt9B2PsHa/logo.png",
+    "tags": [
+        "meme", "community","NFTs","DEFI",
+      "Dog","DogeFather"
+    ],
+    "extensions": {
+        "website": "https://www.billym2k.net/",
+        "twitter":"https://twitter.com/BillyM2k"
+    }
+}
   ],
   "version": {
     "major": 0,
@@ -20584,4 +20633,72 @@
       "twitter": "https://twitter.com/GoldSolDoge",
       "website": "https://http://www.goldsoldoge.com/"
     }
+},
+{
+  "chainId": 101,
+  "address": "7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ",
+  "symbol": "LEONIDAS",
+  "name": "Leonidas Token",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/7puG5H5Mc6QpvaXjAVLr6GnL5hhUMnpLcUm8G3mEsgHQ/logo.png",
+  "tags": [
+    "community-token",
+  ],
+  "extensions": {
+    "twitter": "https://twitter.com/leonidas_token"
+    "website": "https://www.leonidastoken.com"
+  }
+},
+{
+  "chainId": 101,
+  "address": "6qAJ9W5XCb2JyrTRV8bcoXa6HmHNz9YikLMWK71dH1sY",
+  "symbol": "SOLEM",
+  "name": "SolemPad",
+  "decimals": 6,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/6qAJ9W5XCb2JyrTRV8bcoXa6HmHNz9YikLMWK71dH1sY/logo.png",
+  "tags": [
+    "LaunchPAD"
+  ],
+  "extensions": {
+    "website": "https://solempad.net",
+    "telegram": "https://t.me/solempad",
+    "twitter": "https://twitter.com/solempad"
+  }
+},
+    {
+      "chainId": 101,
+      "address": "ENJm611c5aM8Hur9f6oqvLyjU6PjyAA63Pxs8EZ4RrNo",
+      "symbol": "3LechesCake",
+      "name": "Tres Leches Cake",
+      "decimals": 9,
+      "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/ENJm611c5aM8Hur9f6oqvLyjU6PjyAA63Pxs8EZ4RrNo/logo.png",
+      "tags": [
+        "meme-token"
+      ],
+      "extensions": {
+        "website": "https://tresleches.finance",
+        "telegram": "https://t.me/TresLechesCakeOfficial_EN",
+        "twitter": "https://twitter.com/TresLechesToken",
+        "discord": "https://discord.gg/ep29yETXFC"
+      }
+    },
+{
+  "chainId": 101,
+  "address": "AymKzSDznoLT7Vhsb4wSRnCj1gjcG3zkgYFY8fxsHHer",
+  "symbol": "TICKET",
+  "name": "The Ticket Finance",
+  "decimals": 9,
+  "logoURI": "https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/AymKzSDznoLT7Vhsb4wSRnCj1gjcG3zkgYFY8fxsHHer/logo.png",
+  "tags": [
+    "launchpad",
+    "dex",
+    "nft",
+    "defi",
+    "exchange"
+  ],
+  "extensions": {
+    "website": "https://theticket.finance",
+    "twitter": "https://twitter.com/TheTicketSol"
+  }
+}
 }
