@@ -873,7 +873,7 @@
       "symbol": "GULP",
       "name": "GULP",
       "decimals": 8,
-      "logoURI": "https://cdn.jsdelivr.net/gh/jackretterer/fishToken/looptoken/fishLogo.jpg",
+      "logoURI": "https://cdn.jsdelivr.net/gh/jackretterer/fishToken/looptoken/logo.png",
       "tags": [
         "social-token",
         "gulp"
